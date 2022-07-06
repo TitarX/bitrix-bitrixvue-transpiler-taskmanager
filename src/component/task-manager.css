@@ -1,0 +1,13 @@
+.taskmanager-list-title {
+    font-weight: bold;
+}
+
+.taskmanager-list-empty {
+    border-left: 2px solid #eab015;
+    padding: 0 7px;
+    margin: 6px 0 6px 2px;
+}
+
+.taskmanager-list-buttons {
+    font-weight: bold;
+}
